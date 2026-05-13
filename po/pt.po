@@ -2,13 +2,14 @@
 # Copyright (C) 2010 The LXAPPEARANCE-OBCONF Copyright Holder.
 # This file is distributed under the same license as the LXAPPEARANCE-OBCONF package.
 # Sérgio Marques <smarquespt@gmail.com>, 2010-2012.
-# Adaptado ao acordo ortográfico de 1990
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2026.
+# Adaptado ao acordo ortográfico de 1990.
 msgid ""
 msgstr ""
 "Project-Id-Version: lxappearance-obconf 0.2.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-18 11:02+0200\n"
-"PO-Revision-Date: 2026-05-13 12:31+0100\n"
+"PO-Revision-Date: 2026-05-13 12:34+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese\n"
 "Language: pt\n"
